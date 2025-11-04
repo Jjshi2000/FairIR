@@ -1,0 +1,6 @@
+
+# Large artifacts
+best_model/
+data/
+*.pt
+*.npy
